@@ -1,0 +1,6 @@
+my\examples\JBCmart\domain\QProduct.class
+my\examples\JBCmart\domain\QUser.class
+my\examples\JBCmart\repository\custom\ProductRepositoryImpl.class
+my\examples\JBCmart\domain\QRole.class
+my\examples\JBCmart\repository\custom\ProductRepositoryCustom.class
+my\examples\JBCmart\domain\QCategory.class
