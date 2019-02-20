@@ -1,10 +1,5 @@
-# JBCmart
-- Spring Framework를 이용한 신발 쇼핑몰 구현 프로젝트<br>
------------------
-## 조원
-- 박재희
-- 윤정
-- 최주리
+# Shopping Mall
+- Spring Framework를 이용한 쇼핑몰 구현 프로젝트<br>
 ------------------
 ## 기술 
 - Spring version 4.3.14
